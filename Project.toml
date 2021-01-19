@@ -3,6 +3,9 @@ uuid = "00436338-6eca-4049-8f61-08e7103046d1"
 authors = ["Gabe Hassler <gabriel.w.hassler@gmail.com> and contributors"]
 version = "0.1.0"
 
+[deps]
+MCMCDiagnostics = "6e857e4b-079a-58c4-aeab-bc2670384359"
+
 [compat]
 julia = "1"
 
